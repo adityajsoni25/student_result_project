@@ -10,13 +10,16 @@ This project is a **MySQL-based student result management system** that handles 
 
 ## 🚀 How to Run
 
-1. Open MySQL command line or Workbench  
+1. Open MySQL command line or Workbench
+   
 2. Run:
 
    ```bash
    mysql -u root -p < student_result_project.sql
+   
 3.Enter your MySQL password when prompted
-✅ The database, tables, users, data, views, procedures, and triggers will be created.
+
+   ✅ The database, tables, users, data, views, procedures, and triggers will be created.
 
 ## 👤 User Credentials
 
