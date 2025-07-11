@@ -15,3 +15,25 @@ This project is a **MySQL-based student result management system** that handles 
 
    ```bash
    mysql -u root -p < student_result_project.sql
+3.Enter your MySQL password when prompted
+✅ The database, tables, users, data, views, procedures, and triggers will be created.
+
+## 👤 User Credentials
+
+| Username  | Password  | Role    |
+|-----------|-----------|---------|
+| admin1    | admin123  | admin   |
+| faculty1  | fac123    | faculty |
+     
+
+🧠 Features
+1. Normalized schema with foreign keys
+2. Role-based access using MySQL roles
+3. Audit logging of marks changes via triggers
+4. View for simplified result reporting
+5. Stored procedure to handle insert/update
+6. Sample data for students, marks, and users
+
+
+
+
